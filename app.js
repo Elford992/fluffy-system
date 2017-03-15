@@ -5,7 +5,7 @@ var port = 8080;
 var server = http.createServer(function (req, res){
 	res.statusCode = 200;
 	res.setHeader('Content-Type', 'text/plain');
-	res.end('Hello World\n');
+	res.end('Connor Elford\n100232482\n');
 });
 
 server.listen(port, hostname, function() {
