@@ -1,5 +1,5 @@
 var http = require('http');
-var hostname = 'ec2-35-166-52-39.us-west-2.compute.amazonaws.com';
+var hostname = 'ec2-52-40-161-188.us-west-2.compute.amazonaws.com';
 var port = 8080;
 
 var server = http.createServer(function (req, res){
